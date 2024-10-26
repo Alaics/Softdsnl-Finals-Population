@@ -1,4 +1,8 @@
 # Population figures for countries, regions (e.g. Asia) and the world
+Dataset URL = https://datahub.io/core/population?fbclid=IwY2xjawGJO4ZleHRuA2FlbQIxMAABHTbe8Q__nbu9jnwduB92JXX8aj5E1wg73kl1rFDOGSeB98l5SSPT_sJVRQ_aem_7jgC_1x4WnwXtLER93PFzA
+
+[Direct Dataset](https://raw.githubusercontent.com/datasets/population/refs/heads/main/data/population.csv)
+
 
 Global Population Analysis
 
@@ -24,10 +28,6 @@ During data processing, the dataset was loaded using pd.read_csv and went throug
 ## Exploratory Data Analysis
 
 ![Imports](./Images/eda.png)
-
-Reference the Dataset: https://datahub.io/core/population?fbclid=IwY2xjawGJO4ZleHRuA2FlbQIxMAABHTbe8Q__nbu9jnwduB92JXX8aj5E1wg73kl1rFDOGSeB98l5SSPT_sJVRQ_aem_7jgC_1x4WnwXtLER93PFzA
-
-[Direct Dataset](https://raw.githubusercontent.com/datasets/population/refs/heads/main/data/population.csv)
 
 ### Visualization
 
