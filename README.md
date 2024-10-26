@@ -27,7 +27,7 @@ During data processing, the dataset was loaded using pd.read_csv and went throug
 
 Reference the Dataset: https://datahub.io/core/population?fbclid=IwY2xjawGJO4ZleHRuA2FlbQIxMAABHTbe8Q__nbu9jnwduB92JXX8aj5E1wg73kl1rFDOGSeB98l5SSPT_sJVRQ_aem_7jgC_1x4WnwXtLER93PFzA
 
-Github main: https://raw.githubusercontent.com/datasets/population/refs/heads/main/data/population.csv
+[Direct Dataset](https://raw.githubusercontent.com/datasets/population/refs/heads/main/data/population.csv)
 
 ### Visualization
 
