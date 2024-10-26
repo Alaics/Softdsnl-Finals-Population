@@ -32,12 +32,15 @@ We designed charts to help us identify patterns and trends better. Line charts i
 The graph shows that the world’s population grew steadily from about 3 billion in 1960 to around 8 billion by 2020. This growth is mainly due to lower death rates, longer life spans, high birth rates in some regions, and slower drops in birth rates overall. This trend is expected to continue, though growth may slow down in some places.
 
 ![Top 10 Countries by Population](./Images/Img2.png)
+
 The bar chart depicts the population sizes of various groups and countries, with the global population being the greatest, followed by World Bank members, low- and middle-income countries, and others. This chart highlights how most of the world’s population is grouped in specific regions and economic categories, though rankings could change over time due to shifting population trends.
 
 ![Scatter Plot of East Asia & Pacific (excluding gugh income) vs Population](./Images/Img3.png)
+
 The scatter plot shows that the population in East Asia and the Pacific steadily grew from 1960 to 2020. This growth is primarily due to fewer deaths, greater life expectancy, and high birth rates, but birth rates have slowed in some places, such as China. Each dot represents the population for a specific year, and the smooth climb over time indicates continuous growth without large surges. In the future, the population is expected to keep growing, but more slowly.
 
 ![Population value yearly_values of Selected Countries](./Images/Img4.png)
+
 The chart shows how the populations of China and India grew steadily from 1960 to 2020, with China's growth rate staying steady and India’s rising more quickly toward the end, suggesting India might soon become the world’s most populous country. This growth is due to lower death rates, people living longer, and historically high birth rates, though policies like China’s one-child rule have slowed growth there in recent years.
 
 ## Model Development
