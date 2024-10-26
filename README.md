@@ -1,9 +1,6 @@
 # Population figures for countries, regions (e.g. Asia) and the world
 Dataset URL = https://datahub.io/core/population?fbclid=IwY2xjawGJO4ZleHRuA2FlbQIxMAABHTbe8Q__nbu9jnwduB92JXX8aj5E1wg73kl1rFDOGSeB98l5SSPT_sJVRQ_aem_7jgC_1x4WnwXtLER93PFzA
 
-[Direct Dataset](https://raw.githubusercontent.com/datasets/population/refs/heads/main/data/population.csv)
-
-
 Global Population Analysis
 
 This project studies how populations have changed over time across different countries and regions. Using a large dataset with population information from many countries over several decades, we aim to identify trends in population growth, understand the impact of economic and social factors, and explore how these trends differ around the world.
