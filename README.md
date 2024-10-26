@@ -65,6 +65,7 @@ Random Forest - Model Recall: 99.01%
 Linear Regression - Model Accuracy: 92.04% 
 Linear Regression - Model Precision: 92.04% 
 Linear Regression - Model Recall: 100.00%
+
 The evaluation results reflect that all the models predicted population growth with a strong performance. The Logistic Regression model had 92.04% in terms of accuracy, along with precision and recall rates of 92.04% and 100.00%, respectively. That means, that although the model is very accurate, it is especially good at discovering true growth instances without failing to recognize any (because of perfect recall).
 Both the Decision Tree and Random Forest models reached 92.01%. However, the precision actually proved to be slightly bigger (92.80%) and the corresponding recall to be less grand for these tree-based techniques than the Logistic Regression. In short, their ability to decrease false positives was quite much better, though sensitivity values remain relatively high.
 This Linear Regression model was adjusted for application within this binary classification, however it remained able to project the findings of Logistic Regression with a 92.04% accuracy and precision and had an absolute recall of 100.00%.
